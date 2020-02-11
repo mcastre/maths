@@ -1,6 +1,6 @@
 # Maths
 
-> A small Flashcards-style app for children learning counting, addition, subtraction, multiplication, and division. Written in Vue.js + Nativescript.
+A small Flashcards-style app for children learning counting, addition, subtraction, multiplication, and division. Written in Vue.js + Nativescript.
 
 ## Usage
 
